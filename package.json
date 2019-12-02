@@ -1,9 +1,9 @@
 {
-  "name": "",
+  "name": "My Project",
   "version": "1.0.0",
   "description": "",
   "main": "index.html",
-  "author": "",
+  "author": "Martina Freundorfer",
   "scripts": {
     "start": "run-p watch watch:styles",
     "build": "run-s clean clean:styles build:styles copy",
